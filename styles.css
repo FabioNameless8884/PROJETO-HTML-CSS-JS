@@ -1,0 +1,33 @@
+BODY {
+    background-color: aquamarine;
+    color: black;
+    font-family: "Caveat", cursive;
+    display: flex;
+    justify-content: CENTER;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+BUTTON {
+    background-color: blueviolet;
+    color: white;
+    font-family: "Caveat", cursive;
+}
+
+.PASSO {
+    DISPLAY:NONE;
+}
+
+.PASSO.ATIVO {
+    DISPLAY:BLOCK;
+}
+
+main {
+    text-align: CENTER;
+    MAX-WIDTH: 90%;
+}
+
+img {
+    max-width: 80%;
+}
